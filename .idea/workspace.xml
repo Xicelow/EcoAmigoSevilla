@@ -41,7 +41,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02407504-d4b6-4cb7-b187-2f7e0198af89" name="Changes" comment="" />
+    <list default="true" id="02407504-d4b6-4cb7-b187-2f7e0198af89" name="Changes" comment="Cambios 05/06/2024">
+      <changelist_data name="Santiago Gonzalez Murillo" email="santiagomurillo2917@gmail.com" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +67,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Santiago Gonzalez Murillo &lt;santiagomurillo2917@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -89,7 +102,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Santiago",
     "last_directory_selection": "C:/Users/user/OneDrive/Escritorio/UNIVERSIDAD/Semestre 5/EcoamigoSevilla/app/src/main/res/mipmap-xhdpi",
     "last_opened_file_path": "C:/Users/user/OneDrive/Escritorio/UNIVERSIDAD/Semestre 5/EcoamigoSevilla/app/src/main/res/values",
     "project.structure.last.edited": "Modules",
@@ -192,6 +205,30 @@
       <option name="presentableId" value="Default" />
       <updated>1717354281865</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cambios 05/06/2024">
+      <option name="closed" value="true" />
+      <created>1717566264082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717566264082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambios 05/06/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios 05/06/2024" />
   </component>
 </project>
