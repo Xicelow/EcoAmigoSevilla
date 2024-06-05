@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">977188496631</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAUAs3P5LIKw20noGq0FUbecYa2PZyY04</string>
+    <string name="google_app_id" translatable="false">1:977188496631:android:72b3d76c2f8eb0254b5ff2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAUAs3P5LIKw20noGq0FUbecYa2PZyY04</string>
+    <string name="google_storage_bucket" translatable="false">ecoamigosevilla.appspot.com</string>
+    <string name="project_id" translatable="false">ecoamigosevilla</string>
+</resources>

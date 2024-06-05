@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C4FDE7"
+    tools:context=".MenuActivity">
+
+    <TextView
+        android:id="@+id/textViewM"
+        android:layout_width="413dp"
+        android:layout_height="90dp"
+        android:background="#00CC8B"
+        android:fontFamily="sans-serif-black"
+        android:padding="12dp"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:padding="14dp"
+        android:text="@string/men"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewM"/>
+
+    <View
+        android:id="@+id/viewM"
+        android:layout_width="350dp"
+        android:layout_height="530dp"
+        android:layout_marginBottom="25dp"
+        android:background="#00CC8B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnInicio"
+        android:layout_width="290dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#C4FDE7"
+        android:text="@string/inicio"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/viewM" />
+
+    <Button
+        android:id="@+id/btnHorario"
+        android:layout_width="290dp"
+        android:layout_height="70dp"
+        android:backgroundTint="#C4FDE7"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:text="@string/horario"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnInicio"  />
+
+    <Button
+        android:id="@+id/btnTips"
+        android:layout_width="290dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="#C4FDE7"
+        android:padding="10dp"
+        android:text="@string/tips"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnHorario"/>
+
+    <Button
+        android:id="@+id/btnReciclaje"
+        android:layout_width="290dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="#C4FDE7"
+        android:padding="10dp"
+        android:text="@string/reciclaje"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnTips"/>
+
+    <Button
+        android:id="@+id/btnMetas"
+        android:layout_width="290dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="#C4FDE7"
+        android:padding="10dp"
+        android:text="@string/mis_metas"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnReciclaje"/>
+
+    <Button
+        android:id="@+id/btnComunidad"
+        android:layout_width="290dp"
+        android:layout_height="70dp"
+        android:backgroundTint="#C4FDE7"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:text="@string/comunidad"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnMetas"/>
+
+    <Button
+        android:id="@+id/btnPerfil"
+        android:layout_width="290dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="#C4FDE7"
+        android:padding="10dp"
+        android:text="@string/perfilM"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnComunidad"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

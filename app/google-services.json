@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977188496631",
+    "project_id": "ecoamigosevilla",
+    "storage_bucket": "ecoamigosevilla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977188496631:android:72b3d76c2f8eb0254b5ff2",
+        "android_client_info": {
+          "package_name": "com.xicelow.ecoamigosevilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAUAs3P5LIKw20noGq0FUbecYa2PZyY04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

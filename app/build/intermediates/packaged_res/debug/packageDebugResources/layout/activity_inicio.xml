@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C4FDE7"
+    tools:context=".InicioActivity">
+
+    <TextView
+        android:id="@+id/textViewI"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:background="#00CC8B"
+        android:fontFamily="sans-serif-black"
+        android:padding="14dp"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="350dp"
+        android:layout_height="290dp"
+        android:layout_marginTop="32dp"
+        android:background="#00CC8B"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewI" />
+
+    <TextView
+        android:id="@+id/textView2I"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:background="#00CC8B"
+        android:padding="14dp"
+        android:text="@string/sevilla_valle_es_un_pueblo_hermoso_y_nuestro_deber_es_mantenerlo_reluciente_tanto_para_los_habitantes_como_para_los_turistas_hagamos_de_sevilla_un_pueblo_mejor"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/view2" />
+
+    <ImageView
+        android:id="@+id/imageViewMI"
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="52dp"
+        android:contentDescription="@string/sevilla"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewI"
+        app:srcCompat="@mipmap/sevilla" />
+
+    <ImageButton
+        android:id="@+id/imageButtonPI"
+        android:layout_width="81dp"
+        android:layout_height="80dp"
+        android:background="#00CC8B"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/perfil"
+        android:contentDescription="@string/boton_perfil_de_inicio"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonMI"
+        android:layout_width="81dp"
+        android:layout_height="80dp"
+        android:background="#00CC8B"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/menu"
+        android:contentDescription="@string/boton_menu_inicio" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
