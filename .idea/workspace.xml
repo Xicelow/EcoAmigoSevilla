@@ -41,7 +41,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02407504-d4b6-4cb7-b187-2f7e0198af89" name="Changes" comment="Primera Carga del Proyecto 05/06/2024">
+    <list default="true" id="02407504-d4b6-4cb7-b187-2f7e0198af89" name="Changes" comment="Segunda Carga del Proyecto 08/06/2024">
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/debugAndroidTest/javaPreCompileDebugAndroidTest/annotationProcessors.json" afterDir="false" />
@@ -455,6 +455,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cambios 05/06/2024" />
     <MESSAGE value="Primera Carga del Proyecto 05/06/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera Carga del Proyecto 05/06/2024" />
+    <MESSAGE value="Segunda Carga del Proyecto 08/06/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segunda Carga del Proyecto 08/06/2024" />
   </component>
 </project>
