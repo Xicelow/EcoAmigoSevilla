@@ -7,7 +7,7 @@
     <string name="ajustes">Ajustes</string>
     <string name="apellidos">Apellidos</string>
     <string name="app_name">EcoamigoSevilla</string>
-    <string name="bienvenido_a_ecoamigosevilla">Bienvenido a EcoamigoSevilla</string>
+    <string name="bienvenido">Bienvenido a EcoamigoSevilla</string>
     <string name="boton_menu_inicio">Boton Menu Inicio</string>
     <string name="boton_perfil_de_inicio">Boton Perfil de Inicio</string>
     <string name="cerrar_sesi_n">Cerrar Sesión</string>
@@ -38,7 +38,7 @@
     <string name="perfilP">Perfil</string>
     <string name="privacidad">Privacidad</string>
     <string name="project_id" translatable="false">ecoamigosevilla</string>
-    <string name="pulsa_para_iniciar">Pulsa para Iniciar</string>
+    <string name="pulsar_para_iniciar">Pulsa para Iniciar</string>
     <string name="reciclaje">RECICLAJE</string>
     <string name="registrarme">Registrarme</string>
     <string name="registrarte">Registrarte</string>

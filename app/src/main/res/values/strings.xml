@@ -32,7 +32,7 @@
     <string name="ajustes">Ajustes</string>
     <string name="destacados">Destacados</string>
     <string name="chats">Chats</string>
-    <string name="bienvenido_a_ecoamigosevilla">Bienvenido a EcoamigoSevilla</string>
-    <string name="pulsa_para_iniciar">Pulsa para Iniciar</string>
+    <string name="bienvenido">Bienvenido a EcoamigoSevilla</string>
+    <string name="pulsar_para_iniciar">Pulsa para Iniciar</string>
     <string name="nombre_de_usuario">Nombre de Usuario</string>
 </resources>

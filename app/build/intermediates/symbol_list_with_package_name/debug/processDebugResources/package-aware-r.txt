@@ -3968,7 +3968,7 @@ string androidx_startup
 string apellidos
 string app_name
 string appbar_scrolling_view_behavior
-string bienvenido_a_ecoamigosevilla
+string bienvenido
 string boton_menu_inicio
 string boton_perfil_de_inicio
 string bottom_sheet_behavior
@@ -4151,7 +4151,7 @@ string perfilM
 string perfilP
 string privacidad
 string project_id
-string pulsa_para_iniciar
+string pulsar_para_iniciar
 string reciclaje
 string registrarme
 string registrarte

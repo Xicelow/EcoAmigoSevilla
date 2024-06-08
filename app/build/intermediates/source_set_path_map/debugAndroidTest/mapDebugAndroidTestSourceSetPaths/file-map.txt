@@ -1,0 +1,6 @@
+com.xicelow.ecoamigosevilla.test.app-annotation-experimental-1.4.0-0 C:\Users\user\.gradle\caches\transforms-3\b222c17eabdc028df8d726bbbd0d203f\transformed\annotation-experimental-1.4.0\res
+com.xicelow.ecoamigosevilla.test.app-core-1.5.0-1 C:\Users\user\.gradle\caches\transforms-3\f84ddb2da9c1e76ff7d135cb0620354e\transformed\core-1.5.0\res
+com.xicelow.ecoamigosevilla.test.app-androidTest-2 C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\build\generated\res\resValues\androidTest\debug
+com.xicelow.ecoamigosevilla.test.app-mergeDebugAndroidTestResources-3 C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.xicelow.ecoamigosevilla.test.app-mergeDebugAndroidTestResources-4 C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.xicelow.ecoamigosevilla.test.app-debugAndroidTest-5 C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

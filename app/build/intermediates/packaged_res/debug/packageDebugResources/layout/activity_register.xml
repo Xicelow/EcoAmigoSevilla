@@ -129,8 +129,7 @@
                 app:passwordToggleEnabled="true"
                 android:layout_marginTop="10dp"
                 android:layout_centerHorizontal="true"
-                android:layout_below="@+id/correoR"
-                app:hintTextColor="@color/black"/>
+                android:layout_below="@+id/correoR"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -144,7 +143,8 @@
             app:boxStrokeColor="@color/black"
             app:cursorColor="@color/black"
             app:endIconMode="password_toggle"
-            android:textColorHint="@color/black">
+            android:textColorHint="@color/black"
+            app:hintTextColor="@color/black">
 
             <EditText
                 android:id="@+id/confContrasenaR"

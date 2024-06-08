@@ -65,7 +65,7 @@ mipmap sevilla
 string ajustes
 string apellidos
 string app_name
-string bienvenido_a_ecoamigosevilla
+string bienvenido
 string boton_menu_inicio
 string boton_perfil_de_inicio
 string cerrar_sesi_n
@@ -96,7 +96,7 @@ string perfilM
 string perfilP
 string privacidad
 string project_id
-string pulsa_para_iniciar
+string pulsar_para_iniciar
 string reciclaje
 string registrarme
 string registrarte
