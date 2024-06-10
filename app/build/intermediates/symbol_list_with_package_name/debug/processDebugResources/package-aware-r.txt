@@ -3842,7 +3842,6 @@ layout activity_inicio
 layout activity_login
 layout activity_main
 layout activity_menu
-layout activity_mis_datos
 layout activity_perfil
 layout activity_register
 layout browser_actions_context_menu_page

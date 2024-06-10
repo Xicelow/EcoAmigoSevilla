@@ -1,178 +1,170 @@
 [
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-hdpi_ic_logo.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-hdpi/ic_logo.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/layout_activity_inicio.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/layout/activity_inicio.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_ic_logo_foreground.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\ic_logo_foreground.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-anydpi-v26/ic_logo_round.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\layout_activity_perfil.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\layout\\activity_perfil.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-anydpi-v26/ic_logo.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_ic_logo.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\ic_logo.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxxhdpi_ic_logo.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxxhdpi/ic_logo.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\layout_activity_menu.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\layout\\activity_menu.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_menu.png.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/menu.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_sevilla.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\sevilla.png"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxhdpi_ic_logo.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxhdpi\\ic_logo.webp"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\layout\\activity_login.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/xml/data_extraction_rules.xml"
     },
     {
         "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/layout_activity_perfil.xml.flat",
         "source": "com.xicelow.ecoamigosevilla.app-main-45:/layout/activity_perfil.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_menu.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\menu.png"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxxhdpi/ic_logo_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxhdpi_ic_logo_foreground.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxhdpi\\ic_logo_foreground.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-mdpi_ic_logo_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-mdpi/ic_logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxxhdpi_ic_logo_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxxhdpi\\ic_logo_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-hdpi_ic_logo.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-hdpi\\ic_logo.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-mdpi_ic_logo.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-mdpi/ic_logo.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/ic_logo_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/layout_activity_register.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-mdpi_ic_logo.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-mdpi\\ic_logo.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxhdpi/ic_logo_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_ic_logo.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/ic_logo.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\xml\\data_extraction_rules.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxhdpi_ic_logo.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxhdpi/ic_logo.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-hdpi_ic_logo_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-hdpi\\ic_logo_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxhdpi_ic_logo_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxhdpi\\ic_logo_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-anydpi-v26_ic_logo.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-anydpi-v26\\ic_logo.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_ic_logo_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\ic_logo_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-anydpi-v26_ic_logo_round.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-anydpi-v26\\ic_logo_round.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxxhdpi_ic_logo_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxxhdpi/ic_logo_round.webp"
     },
     {
-        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/layout_activity_mis_datos.xml.flat",
-        "source": "com.xicelow.ecoamigosevilla.app-main-45:/layout/activity_mis_datos.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxxhdpi_ic_logo.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxxhdpi\\ic_logo.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-mdpi_ic_logo_foreground.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-mdpi/ic_logo_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_perfil.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\perfil.png"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\layout\\activity_main.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/layout_activity_menu.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/layout/activity_menu.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxxhdpi_ic_logo_foreground.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxxhdpi\\ic_logo_foreground.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/layout_activity_login.xml.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-mdpi_ic_logo_foreground.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-mdpi\\ic_logo_foreground.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-hdpi_ic_logo_foreground.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-hdpi/ic_logo_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-hdpi_ic_logo_foreground.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-hdpi\\ic_logo_foreground.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxhdpi_ic_logo_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxhdpi/ic_logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-mdpi_ic_logo_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-mdpi\\ic_logo_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\xml\\backup_rules.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_sevilla.png.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/sevilla.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\layout\\activity_register.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_ic_logo_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/ic_logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-hdpi_ic_logo_round.webp.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-hdpi/ic_logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-debug-43:\\layout_activity_inicio.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.4\\com.xicelow.ecoamigosevilla.app-main-45:\\layout\\activity_inicio.xml"
+        "merged": "com.xicelow.ecoamigosevilla.app-debug-43:/mipmap-xhdpi_perfil.png.flat",
+        "source": "com.xicelow.ecoamigosevilla.app-main-45:/mipmap-xhdpi/perfil.png"
     }
 ]
