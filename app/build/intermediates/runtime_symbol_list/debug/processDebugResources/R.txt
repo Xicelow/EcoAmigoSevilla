@@ -3416,6 +3416,7 @@ int id imageButtonMI 0x7f0800fb
 int id imageButtonMP 0x7f0800fc
 int id imageButtonPI 0x7f0800fd
 int id imageViewMI 0x7f0800fe
+int id imagenPerfil 0x7f080230
 int id immediateStop 0x7f0800ff
 int id included 0x7f080100
 int id indeterminate 0x7f080101
@@ -3840,6 +3841,7 @@ int layout activity_inicio 0x7f0b001c
 int layout activity_login 0x7f0b001d
 int layout activity_main 0x7f0b001e
 int layout activity_menu 0x7f0b001f
+int layout activity_mis_datos 0x7f0b0073
 int layout activity_perfil 0x7f0b0020
 int layout activity_register 0x7f0b0021
 int layout browser_actions_context_menu_page 0x7f0b0022

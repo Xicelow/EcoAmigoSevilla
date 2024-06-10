@@ -34,6 +34,7 @@
         android:contentDescription="@string/boton_menu_inicio"/>
 
     <ImageButton
+        android:id="@+id/imagenPerfil"
         android:layout_width="90dp"
         android:layout_height="90dp"
         android:layout_marginStart="20dp"

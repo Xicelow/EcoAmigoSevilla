@@ -37,7 +37,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.EcoamigoSevilla" >
         <activity
-            android:name="com.xicelow.ecoamigosevilla.BienvenidaActivity"
+            android:name="com.xicelow.ecoamigosevilla.OpcionesPerfil.Mis_Datos"
             android:exported="false" />
         <activity
             android:name="com.xicelow.ecoamigosevilla.LoginActivity"
