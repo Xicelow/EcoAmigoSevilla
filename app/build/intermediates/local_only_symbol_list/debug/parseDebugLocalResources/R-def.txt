@@ -28,6 +28,7 @@ id imageButtonMI
 id imageButtonMP
 id imageButtonPI
 id imageViewMI
+id imagenPerfil
 id irRegister
 id lottieAnimationView
 id main
@@ -52,6 +53,7 @@ layout activity_inicio
 layout activity_login
 layout activity_main
 layout activity_menu
+layout activity_mis_datos
 layout activity_perfil
 layout activity_register
 mipmap ic_launcher

@@ -69,8 +69,8 @@
 38-->C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\src\main\AndroidManifest.xml:13:9-53
 39        <activity
 39-->C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\src\main\AndroidManifest.xml:15:9-17:40
-40            android:name="com.xicelow.ecoamigosevilla.BienvenidaActivity"
-40-->C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\src\main\AndroidManifest.xml:16:13-47
+40            android:name="com.xicelow.ecoamigosevilla.OpcionesPerfil.Mis_Datos"
+40-->C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\src\main\AndroidManifest.xml:16:13-53
 41            android:exported="false" />
 41-->C:\Users\user\OneDrive\Escritorio\UNIVERSIDAD\Semestre 5\EcoamigoSevilla\app\src\main\AndroidManifest.xml:17:13-37
 42        <activity
